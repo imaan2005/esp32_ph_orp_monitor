@@ -155,7 +155,3 @@ src/main.cpp
 README.md
 docs/architecture.md
 ```
-
-## Notes
-
-This project is intended as a firmware/demo foundation. Real deployments should include proper electrical isolation, probe calibration workflow validation, temperature compensation for pH if required, enclosure design, waterproofing, power protection, and sensor-specific compensation.
