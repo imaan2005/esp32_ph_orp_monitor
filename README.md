@@ -153,5 +153,4 @@ pio device monitor
 platformio.ini
 src/main.cpp
 README.md
-docs/architecture.md
 ```
